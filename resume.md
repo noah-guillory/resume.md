@@ -28,7 +28,6 @@ subject: 'Resume'
 ```web applications```
 ```serverless```
 ```containers```
-```project management```
 ```system architecture & design```
 
 **Programming**: JavaScript, Typescript, Go, Python, Java
