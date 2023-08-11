@@ -18,7 +18,7 @@ author:
 - Noah Guillory
 subject: 'Resume'
 ---
-###### Topeka, KS, United States | [noah@noahguillory.com](mailto:noah@noahguillory.me) | +1-337-764-3447
+###### Topeka, KS, United States | [noah@noahguillory.com](mailto:noah@noahguillory.com) | +1-337-764-3447
 
 ## Skills
 
