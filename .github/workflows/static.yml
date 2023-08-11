@@ -46,12 +46,18 @@ jobs:
           sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/${{github.actor}}-resume.html
+          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/resume.html
+
+      - name: "Convert HTML to PDF "
+        run: "wkhtmltopdf --enable-local-file-access output/resume.html output/resume.pdf"
+
+      - name: "Convert MD to DOCX"
+        run: pandoc -o output/resume.docx --reference-doc=resume-docx-reference.docx resume.md
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: 'output/${{github.actor}}-resume.html'
+          path: "output"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
