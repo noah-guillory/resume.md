@@ -83,7 +83,7 @@ subject: 'Resume'
 
 ### Software Intern, Lumen (formally CenturyLink)
 
-02/2019 - 04/2020 | Kansas City, MO
+02/2019 - 04/2020 | Monroe, LA
 
 - Supported daily operations and development of hybrid mobile application using AngularJS for CenturyLink field technicians
 -  Coordinated with QA and support teams to triage and resolve customer issues.
