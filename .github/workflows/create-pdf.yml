@@ -31,9 +31,12 @@ jobs:
 
       - name: "Convert HTML to PDF "
         run: "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume.html output/${{github.actor}}-resume.pdf"
+
+      - name: "Convert MD to DOCX"
+        run: pandoc -o output/${{github.actor}}-resume.docx --reference-doc=resume-docx-reference.docx resume.md
       # run: |
       #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
       - uses: actions/upload-artifact@master
-        with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file.
+        with: # puts all resume outputs in one zip file
           name: ${{ github.actor }}'s Resume
           path: output
