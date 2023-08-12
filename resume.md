@@ -41,9 +41,9 @@ subject: 'Resume'
 09/2021 - Present | Remote, US
 
 - Designed and built serverless web application using AWS Lambda and ReactJS for Professional Services consultants to conduct their customer engagements with a higher bar of security.
-- Defined application infrastructure in code using the AWS Cloud Development Kit, ensuring that all infrastructure changes were well tested and modeled.
+- Defined application infrastructure in code using the AWS Cloud Development Kit, ensuring all infrastructure changes were well tested and modeled.
 - Created a baseline monitoring process for our organization, standardizing how we create operational and business dashboards.
-- Performed on-call duties, providing operational support our team's applications and responding to customer issues.
+- Performed on-call duties, providing operational support for our team's applications and responding to customer issues.
 
 
 **Technologies used:** AWS Lambda, DynamoDB, SQS, EventBridge, CloudWatch, TypeScript, AWS Cloud Devlopment Kit, ReactJS, NestJS
@@ -52,9 +52,9 @@ subject: 'Resume'
 
 04/2020 - 09/2021 | Remote, US
 
-- Developed features for E-Commerce applications to assist customers in finding ideal items for purchase, improving customer conversions by 15%.
-- Onboarded third-party codebase into our infrastructure, setting up CI/CD pipelines and ensuring that it met our quality bar.
-- Created new data-syncing mechanism for our website builder application, decreasing the amount of operational load by 50% and increasing the the speed of data sync by 30%
+- Developed features for E-Commerce applications to assist customers in finding storage units facilities which best suited their needs, improving customer conversions by 15%.
+- Onboarded third-party codebase into the company's build infrastructure, setting up CI/CD pipelines while ensuring company quality standards were met.
+- Created new data-syncing mechanism for the website builder application, decreasing the amount of operational load by 50% and increasing the the speed of data sync by 30%.
 
 
 **Technologies used:** JavaScript, Docker, MongoDB, PostgreSQL, ReactJS, NodeJS, AngularJS, Jenkins, AWS, Heroku
@@ -63,9 +63,9 @@ subject: 'Resume'
 
 02/2019 - 04/2020 | Kansas City, MO
 
-- Enabled high availability and performance by working on transaction-based Java backend with clinical data, meeting requirements and fulfilling needs with an effective solution.
-- Facilitated onboarding new engineers by creating an automated documentation generation tool for all our code repositories, making it easier for a new team member to get up to speed quicker.
-- Created end-to-end test suites for our legacy applications, ensuring that our work to add new features did not add regressions.
+- Enabled high availability and performance by working on transaction-based Java backend with clinical data, while meeting requirements and fulfilling needs with an effective solution.
+- Facilitated the onboarding of new engineers by creating an automated documentation generation tool for all the code repositories, enabling new team members to get up to speed quicker.
+- Created end-to-end test suites for the legacy applications, ensuring new features added did not introduce regressions.
 
 
 
@@ -75,18 +75,18 @@ subject: 'Resume'
 
 05/2018 - 08/2018 | Kansas City, MO
 
-- Utilized Ruby on Rails to design and create a new metadata editing tool to support the organization's flagship product
-- Containerized application using Docker to run on standardized deployment infrastructure
+- Utilized Ruby on Rails to design and create a new metadata editing tool to support the organization's flagship product.
+- Containerized the web application using Docker to run on standardized deployment infrastructure.
 - Defined CI/CD pipelines using Jenkins to deploy project to staging and production environments.
 
-**Technologies used:** Ruby, Ruby on Rails, Jenkins, DCOS, ReactJS, Docker
+**Technologies used:** Ruby, Ruby on Rails, Docker, Jenkins, DCOS, ReactJS
 
 ### Software Intern, Lumen (formally CenturyLink)
 
-02/2019 - 04/2020 | Monroe, LA
+05/2017 - 12/2017 | Monroe, LA
 
-- Supported daily operations and development of hybrid mobile application using AngularJS for CenturyLink field technicians
--  Coordinated with QA and support teams to triage and resolve customer issues.
+- Supported daily operations and development of hybrid mobile application using AngularJS for CenturyLink field technicians.
+- Coordinated with QA and support teams to triage and resolve customer issues.
 - Created a training environment for the mobile application to facilitate the training of new technicians.
 
 
