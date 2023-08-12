@@ -30,7 +30,7 @@ subject: 'Resume'
 ```containers```
 ```system architecture & design```
 
-**Programming**: JavaScript, Typescript, Go, Python, Java
+**Programming**: JavaScript, Typescript, HTML, CSS, Go, Python, Java
 **Databases**: MySQL, Postgres, SQLite, Amazon DynamoDB
 **DevOps**: AWS Cloud Development Kit, Jenkins, CloudFormation
 
@@ -38,10 +38,10 @@ subject: 'Resume'
 
 ### Software Development Engineer, Amazon Web Services
 
-09/2021 - Present | Remote, US
+September 2021 - Present | Remote, US
 
-- Designed and built a serverless web application using AWS Lambda and ReactJS for Professional Services consultants to conduct customer engagements with a higher security bar.
-- Defined application infrastructure in code using the AWS Cloud Development Kit, ensuring all infrastructure changes were well-tested and modeled.
+- Designed and built an event-based serverless application for Professional Services consultants to conduct customer engagements with a higher security bar.
+- Defined application infrastructure in code using the AWS Cloud Development Kit, ensuring all infrastructure changes were well-tested and modeled
 - Created a baseline monitoring process for our organization, standardizing how we create operational and business dashboards.
 - Performed on-call duties, providing operational support for our team's applications and responding to customer issues.
 
@@ -50,7 +50,7 @@ subject: 'Resume'
 
 ### Software Engineer II, Storable
 
-04/2020 - 09/2021 | Remote, US
+March 2020 - September 2021 | Remote, US
 
 - Developed features for E-Commerce applications to assist customers in finding storage unit facilities that best suited their needs, improving customer conversions by 15%.
 - Onboarded third-party codebase into the company's build infrastructure, setting up CI/CD pipelines meeting the company quality standards.
@@ -61,7 +61,7 @@ subject: 'Resume'
 
 ### Software Engineer, Oracle Cerner (formally Cerner Corporation)
 
-02/2019 - 04/2020 | Kansas City, MO
+February 2019 - March 2020 | Kansas City, MO
 
 - Enabled high availability and performance by working on transaction-based Java backend with clinical data while meeting requirements and fulfilling needs with an effective solution.
 - Facilitated onboarding new engineers by creating an automated documentation generation tool for all the code repositories, enabling new team members to get up to speed quicker.
@@ -73,7 +73,7 @@ subject: 'Resume'
 
 ### Software Intern, Oracle Cerner (formally Cerner Corporation)
 
-05/2018 - 08/2018 | Kansas City, MO
+May 2018 - August 2018 | Kansas City, MO
 
 - Utilized Ruby on Rails to design and create a new metadata editing tool to support the organization's flagship product.
 - Containerized the web application using Docker to run on standardized deployment infrastructure.
@@ -83,7 +83,7 @@ subject: 'Resume'
 
 ### Software Intern, Lumen (formally CenturyLink)
 
-05/2017 - 12/2017 | Monroe, LA
+May 2017 - December 2017| Monroe, LA
 
 - Supported daily operations and hybrid mobile application development using AngularJS for CenturyLink field technicians.
 - Coordinated with QA and support teams to triage and resolve customer issues.
